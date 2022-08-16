@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Emilyannp3
-- 👀 I’m interested in data science.
-- 🌱 I’m currently learning data analysis.
-- 📫 emily1plummer@gmail.com or Linked In : https://www.linkedin.com/in/emily-plummer-37447a100
+- 👀 I’m interested in web development and engineering
+- 📫 Reach me here - <a href="https://www.linkedin.com/in/emily-plummer-37447a100">Linked In</a>
 
 <!---
 Emilyannp3/Emilyannp3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
